@@ -1,0 +1,18 @@
+export const NAV_LINKS = {
+  HOME: `/`,
+  SIGN_IN: `/sign-in`,
+  SIGN_UP: '/sign-up',
+  FORGOT_PASSWORD: '/forgot-password',
+  ONBOARDING: '/onboarding',
+  TRANSACTIONS: '/transactions',
+  ACCOUNT: '/account',
+  MANAGE_SUBSCRIPTION: '/manage-subscription',
+  CONTACTS: '/contacts',
+  TASKS: '/tasks',
+  CREATE_NEW_CONTACT: '/contacts/create-contact',
+  CREATE_NEW_TASK: '/tasks/create-task',
+  CREATE_NEW_TEMPLATE: '/templates/create-template',
+  BUY_SUBSCRIPTION: '/purchase-subscription',
+  DASHBOARD: '/dashboard',
+  CREATE_TRANSACTION: '/transactions/create-transaction',
+}
