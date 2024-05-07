@@ -1,4 +1,5 @@
-![Pentilo](image-1.png)
+![Pentilo](image-2.png)
+
 # Pentilo: Sample Next js project
 
 ## Description
