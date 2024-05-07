@@ -1,6 +1,6 @@
-![Pentilo](image-2.png)
-
 # Pentilo: Sample Next js project
+
+![Pentilo](image-2.png)
 
 ## Description
 
